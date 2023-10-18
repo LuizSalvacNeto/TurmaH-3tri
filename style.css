@@ -1,3 +1,10 @@
 p{
     color:deepskyblue;
+    text-align: justify;
+    font-size: 20px;
+}
+
+h1{
+    text-align: left;
+    font-size: 30px;
 }
