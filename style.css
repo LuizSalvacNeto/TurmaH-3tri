@@ -15,7 +15,7 @@ body {
 }
 
 .texto2 {
-    color:rgb(71, 7, 131);
-    text-align: justify;
+    color:blueviolet;
+    text-align:right;
     font-size: 35px;
 }
