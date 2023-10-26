@@ -1,9 +1,9 @@
 body {
-    background-color:goldenrod
+    background-color:aquamarine
 }
 
 #titulo {
-    color:aquamarine;
+    color:rgb(193, 127, 255);
     text-align: left;
     font-size: 80px;
 }
@@ -15,7 +15,7 @@ body {
 }
 
 .texto2 {
-    color:blueviolet;
+    color:rgb(71, 7, 131);
     text-align: justify;
     font-size: 35px;
 }
