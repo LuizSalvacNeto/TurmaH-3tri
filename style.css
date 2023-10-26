@@ -1,21 +1,21 @@
-body{
+body {
     background-color: rgb(162, 0, 255);
 }
 
-#titulo{
+#titulo {
     color:aquamarine;
     text-align: left;
     font-size: 80px;
 }
 
-.texto1{
+.texto1 {
     color:deepskyblue;
     text-align: justify;
     font-size: 35px;
 }
 
-.texto2{
-    color:blueviolet
+.texto2 {
+    color:blueviolet;
     text-align: justify;
     font-size: 35px;
 }
