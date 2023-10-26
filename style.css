@@ -2,16 +2,16 @@ body{
     background-color: rgb(162, 0, 255);
 }
 
-.texto1{
-    color:deepskyblue;
-    text-align: justify;
-    font-size: 35px;
-}
-
 #titulo{
     color:aquamarine;
     text-align: left;
     font-size: 50px;
+}
+
+.texto1{
+    color:deepskyblue;
+    text-align: justify;
+    font-size: 35px;
 }
 
 .texto2{
