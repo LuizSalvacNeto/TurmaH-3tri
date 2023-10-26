@@ -2,14 +2,20 @@ body{
     background-color: rgb(162, 0, 255);
 }
 
-p{
+.texto1{
     color:deepskyblue;
     text-align: justify;
-    font-size: 20px;
+    font-size: 35px;
 }
 
-h1{
+#titulo{
     color:aquamarine;
     text-align: left;
     font-size: 50px;
+}
+
+.texto2{
+    color:blueviolet
+    text-align: justify;
+    font-size: 35px;
 }
