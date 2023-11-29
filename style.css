@@ -3,6 +3,15 @@ body {
     font-family: san-serif;
 }
 
+header{
+    padding: 20px;
+background-color:aliceblue;
+border-bottom: 2px solid wheat;
+font-size: 32px;
+display: flex;
+justify-content: space-around;
+}
+
 #Titulo {
     color:rgb(193, 127, 255);
     text-align: center;
