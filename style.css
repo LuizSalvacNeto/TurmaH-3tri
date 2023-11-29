@@ -37,3 +37,7 @@ justify-content: space-around;
 .lista {
     background-color: #045527;
 }
+.logo {
+    width: 10%;
+    height: 10%;
+}
