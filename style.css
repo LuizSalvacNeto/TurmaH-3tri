@@ -5,11 +5,11 @@ body {
 
 header{
     padding: 20px;
-background-color:aliceblue;
-border-bottom: 2px solid wheat;
-font-size: 22px;
-display: flex;
-justify-content: space-around;
+    background-color:aliceblue;
+    border-bottom: 2px solid wheat;
+    font-size: 22px;
+    display: flex;
+    justify-content: space-around;
 }
 
 #Titulo {
@@ -38,6 +38,6 @@ justify-content: space-around;
     background-color: #045527;
 }
 .logo {
-    width: 10%;
-    height: 10%;
+    width: 5%;
+    height: %;
 }
